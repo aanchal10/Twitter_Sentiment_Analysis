@@ -15,7 +15,7 @@ Save all the 3 files in one folder and mention the path of the folder in run.R.
 
 Word Cloud would be displayed for all the scenarios(Positive,Negative and Neutral).
 
-RStuudio has been used to implement the code.
+RStudio has been used to implement the code.
 
 
 
