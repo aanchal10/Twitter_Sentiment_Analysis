@@ -1,4 +1,4 @@
-# Projects
+# Twitter_Sentiment_Analysis
 Twitter_Sentiment_Analysis
 This application is created inorder to analysize tweets of a particular topic and to find out the sentiment of the tweets belong to which category among Positive,Negative and Neutral.
 The code has been written in R and UI is created using Shiny.
